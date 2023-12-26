@@ -20,7 +20,7 @@ To build a Next.js demo application that:
 
 ## Directory Structure
 ```pwsh
-activity10-your-github-username/
+activity9-[your-github-username]/
 │
 ├──.next/
 │
